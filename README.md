@@ -17,3 +17,6 @@ Create a `.env` file in the root directory of the project and add your Google AP
 
 API_KEY=your_api_key_here
 
+---
+
+The flask adaptation is WIP
